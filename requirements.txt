@@ -1,0 +1,7 @@
+pandas==2.2.3
+matplotlib==3.10.1
+numpy==1.26.4
+pydantic==2.10.6
+scikit-learn==1.6.1
+scipy==1.15.2
+category_encoders==2.8.0
