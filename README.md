@@ -39,7 +39,7 @@ mkdir [NAME_OF_DATASET]
 Put the tabular data in .csv format in this directory ([NAME_OF_DATASET].csv). **The first row should be the header** indicating the name of each column, and the remaining rows are records.
 
 Then, write a .json file ([NAME_OF_DATASET].json) recording the metadata of the tabular, covering the following information:
-```json
+```
 {
     "name": "[NAME_OF_DATASET]",
     "task_type": "[NAME_OF_TASK]", # binclass or regression
