@@ -1,6 +1,6 @@
 # RecTable: Fast Modeling Tabular Data with Rectified Flow
 
-This repository contains the implementation of RecTable: Fast Modeling Tabular Data with Rectified Flow.
+This repository contains the implementation of [RecTable: Fast Modeling Tabular Data with Rectified Flow](https://arxiv.org/abs/2503.20731).
 
 
 ## Installation
