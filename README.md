@@ -82,7 +82,15 @@ This repo is built upon the previous work [TabSyn's](https://github.com/amazon-s
 We appreciate your citations if you find this repository useful to your research!
 
 ```bibtex
-
+@misc{fuchi2025rectablefastmodelingtabular,
+      title={RecTable: Fast Modeling Tabular Data with Rectified Flow}, 
+      author={Masane Fuchi and Tomohiro Takagi},
+      year={2025},
+      eprint={2503.20731},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.20731}, 
+}
 ```
 
 ## Contact
