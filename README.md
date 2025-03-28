@@ -75,6 +75,12 @@ Other configurations can be found in `config.py`.
 python generate.py --ckpt CKPT_PATH --dataname [NAME_OF_DATASET] 
 ```
 
+`CKPT_PATH` is same of `exp` in the configuration when training. For example, when the checkpoint's path is `checkpoints/rectable_sample.pth`, the generation command as follows:
+```bash
+python generate.py --ckpt sample --dataname [NAME_OF_DATASET]
+```
+
+
 ## Acknowledgement
 This repo is built upon the previous work [TabSyn's](https://github.com/amazon-science/tabsyn), [TabDiff's](https://github.com/MinkaiXu/TabDiff), and [Rectified Flow](https://github.com/gnobitab/RectifiedFlow). Many thanks to Hengrui, Shi, and Liu!
 
