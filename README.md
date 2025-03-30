@@ -1,5 +1,14 @@
 # RecTable: Fast Modeling Tabular Data with Rectified Flow
 
+<p align="center">
+  <a href="https://github.com/fmp453/rectable/blob/main/LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/badge/license-Apache 2.0-green">
+  </a>
+  <a href="https://arxiv.org/abs/2503.20731">
+    <img alt="arXiv Url" src="https://img.shields.io/badge/cs.LG-2503.20731-B31B1B.svg">
+  </a>
+</p>
+
 This repository contains the implementation of [RecTable: Fast Modeling Tabular Data with Rectified Flow](https://arxiv.org/abs/2503.20731).
 
 
